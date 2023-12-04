@@ -233,7 +233,7 @@ model.fc.to(device)
 MODEL_SAVE_PATH = 'checkpoints'
 
 LEARNING_RATE = 1e-3
-N_EPOCHS = 2
+N_EPOCHS = 10
 
 criterion = torch.nn.CrossEntropyLoss()
 optimizer = torch.optim.Adam(model.parameters(), lr=LEARNING_RATE)

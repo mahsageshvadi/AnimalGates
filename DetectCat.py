@@ -27,7 +27,7 @@ preprocessed_image = prepare_image(image_file_name)
 
 results = mobileNetModel.predict(preprocessed_image)
 
-result = imagenet_utils.decode_predictions(results)
+result = imagenet_utils.decode_predictions(results)[0][0][1]
 
 print(result)
 

@@ -1,5 +1,13 @@
 # AnimalGates: Cat Breed Classification System
 
+## Code Documentation
+
+For detailed code documentation, refer to [Code Documentation](<https://drive.google.com/file/d/1i3etmYkegEtu6930kCCHAxDefadX393r/view?usp=sharing>).
+
+## Setup Guide
+
+To set up and run the project, follow the instructions in the [Setup Guide](<https://drive.google.com/file/d/1N5duG3M1jJXAS-8-FWE1XvjGWI0CA3hk/view?usp=sharing>).
+
 ## Project Overview
 
 The AnimalGates project focuses on developing a system for classifying different cat breeds using a Raspberry Pi and a machine learning model. The system utilizes the Cats and Dogs Breeds Classification Oxford Dataset from Kaggle, which contains both cat and dog breeds. Our goal is to accurately identify and classify cat breeds while eliminating the dog data from the dataset.

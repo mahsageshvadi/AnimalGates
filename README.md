@@ -2,11 +2,11 @@
 
 ## Code Documentation
 
-For detailed code documentation, refer to [Code Documentation](<https://drive.google.com/file/d/1i3etmYkegEtu6930kCCHAxDefadX393r/view?usp=sharing>).
+For detailed code documentation, refer to [Code Documentation](<https://mahsageshvadi.github.io/AnimalGates/AnimalGateCodeDocumentation.pdf>).
 
 ## Setup Guide
 
-To set up and run the project, follow the instructions in the [Setup Guide](<https://drive.google.com/file/d/1N5duG3M1jJXAS-8-FWE1XvjGWI0CA3hk/view?usp=sharing>).
+To set up and run the project, follow the instructions in the [Setup Guide](<https://mahsageshvadi.github.io/AnimalGates/AnimalGateSetupGuide.pdf>).
 
 ## Project Overview
 
